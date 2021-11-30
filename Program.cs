@@ -38,7 +38,7 @@ namespace Lab3_Taxi
 
             TaxiDispenser td = new();
 
-            Console.WriteLine("Попытка подобрать оптимальный вид такси");
+            Console.WriteLine("Попытка подобрать оптимальный вид машины");
 
             foreach (List<Passenger> passengers in passengersLists)
             {
